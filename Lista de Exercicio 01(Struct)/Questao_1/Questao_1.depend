@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1455130349 source:c:\users\yuri\documents\ifce\estrutura de dados\lista de exercicio 01(struct)\questao_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
